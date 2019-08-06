@@ -20,6 +20,8 @@ the `<li>` tag, _list item_.
 To make a list, we write out the opening and closing `<ul>` tags, and inside
 them, we'll add `<li>` tags, each listing a single month:
 
+;slakdjfk;lasdjfjasdj
+
 ```HTML
 <ul>
   <li>Dec</li>
